@@ -67,6 +67,6 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
-    "jsdom": "^16.4.0"
+    "jsdom": "^16.7.0"
   }
 }
